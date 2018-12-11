@@ -3,11 +3,15 @@
 **This is github test page**
 
 *This text is italicized*
+
 ~~This was mistaken text~~
+
 In the words of Abraham Lincoln:
 > Pardon me
+
 Use `git status` to list all new or modified files that haven't yet been committed.
 Some basic Git commands are:
+
 ```
 git status
 git add
