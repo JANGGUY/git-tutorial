@@ -25,4 +25,4 @@ This site was built using [GitHub Help Pages](https://help.github.com/articles/b
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-- feature-A
+- fix-B
